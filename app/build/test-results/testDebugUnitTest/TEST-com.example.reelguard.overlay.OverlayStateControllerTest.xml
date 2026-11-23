@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.overlay.OverlayStateControllerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.484Z" hostname="LAPTOP-IVFD4A1S" time="0.004">
+  <properties/>
+  <testcase name="shouldDisplayOverlay_followsSessionLifecycle" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.001"/>
+  <testcase name="computeUiModel_returnsNullWhenDismissedOrDisabled" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.0"/>
+  <testcase name="computeUiModel_displaysRemainingTimeAndEmojiPerApp" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.0"/>
+  <testcase name="shouldDisplayOverlay_respectsGlobalToggle" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.0"/>
+  <testcase name="computeUiModel_limitReachedWarningIsNotDismissible" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.001"/>
+  <testcase name="computeUiModel_calculatesSessionDurationAndNormalStatus" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.002"/>
+  <testcase name="computeUiModel_whenLimitReached_remainingSecondsIsZeroAndNoPositiveTimeShown" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.0"/>
+  <testcase name="computeUiModel_warningAndLimitReachedLevels" classname="com.example.reelguard.overlay.OverlayStateControllerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

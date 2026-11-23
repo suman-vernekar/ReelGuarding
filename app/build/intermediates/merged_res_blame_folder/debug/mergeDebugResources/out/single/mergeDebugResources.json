@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.reelguard.app-debug-4:/xml_reel_accessibility_config.xml.flat",
+        "source": "com.example.reelguard.app-main-6:/xml/reel_accessibility_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\suman\\.gradle\\daemon\\9.6.0\\com.example.reelguard.app-debug-4:\\xml_reel_accessibility_config.xml.flat",
+        "source": "C:\\Users\\suman\\.gradle\\daemon\\9.6.0\\com.example.reelguard.app-main-6:\\xml\\reel_accessibility_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\suman\\.gradle\\daemon\\9.6.0\\com.example.reelguard.app-debug-4:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\suman\\.gradle\\daemon\\9.6.0\\com.example.reelguard.app-main-6:\\drawable\\ic_launcher.xml"
+    }
+]

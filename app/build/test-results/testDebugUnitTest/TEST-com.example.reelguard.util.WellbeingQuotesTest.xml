@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.util.WellbeingQuotesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.518Z" hostname="LAPTOP-IVFD4A1S" time="0.047">
+  <properties/>
+  <testcase name="collections_areNotEmptyAndHaveNoReelsOrShortsJargon" classname="com.example.reelguard.util.WellbeingQuotesTest" time="0.003"/>
+  <testcase name="getNextWarningQuote_allowsReappearanceAfterFourDisplays" classname="com.example.reelguard.util.WellbeingQuotesTest" time="0.002"/>
+  <testcase name="getNextWarningQuote_respectsHistoryCapacityWithoutImmediateRepeats" classname="com.example.reelguard.util.WellbeingQuotesTest" time="0.035"/>
+  <testcase name="getRandomQuoteAndWelcomeQuote_returnValidContent" classname="com.example.reelguard.util.WellbeingQuotesTest" time="0.003"/>
+  <testcase name="getNextWarningQuote_neverRepeatsConsecutively" classname="com.example.reelguard.util.WellbeingQuotesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

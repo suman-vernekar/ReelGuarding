@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.tracking.UsageTrackerEngineTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.504Z" hostname="LAPTOP-IVFD4A1S" time="0.007">
+  <properties/>
+  <testcase name="determineForegroundPackage_debouncesDuplicateEventBursts" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.003"/>
+  <testcase name="determineForegroundPackage_identifiesActiveApp" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="calculateElapsedSeconds_invalidOrBackwardDelta" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="determineForegroundPackage_handlesScreenUnlock" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="remainingSecondsAndLimitReached_behaveDeterministically" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="determineForegroundPackage_handlesAppSwitching" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="determineForegroundPackage_returnsNullWhenSwitchedToUntrackedApp" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.002"/>
+  <testcase name="isDateChanged_detectsMidnightRollover" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="determineForegroundPackage_handlesScreenLock" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="calculateElapsedSeconds_clampsLongSuspensionJump" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <testcase name="calculateElapsedSeconds_regularDelta" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.001"/>
+  <testcase name="determineForegroundPackage_filtersInvalidTimestamps" classname="com.example.reelguard.tracking.UsageTrackerEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

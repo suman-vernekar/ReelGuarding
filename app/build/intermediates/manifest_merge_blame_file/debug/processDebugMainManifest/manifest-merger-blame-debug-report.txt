@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.reelguard"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+11-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:2:5-78
+11-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:2:22-75
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:3:5-78
+12-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:3:22-75
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:4:5-77
+13-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:4:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+14-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:5:5-89
+14-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:5:22-86
+15    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+15-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:6:5-77
+15-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:6:22-74
+16    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+16-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:7:5-95
+16-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:7:22-92
+17
+18    <queries>
+18-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:9:5-13:15
+19        <package android:name="com.instagram.android" />
+19-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:10:9-57
+19-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:10:18-54
+20        <package android:name="com.google.android.youtube" />
+20-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:11:9-62
+20-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:11:18-59
+21        <package android:name="com.facebook.katana" />
+21-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:12:9-55
+21-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:12:18-52
+22    </queries>
+23
+24    <application
+24-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:15:5-54:19
+25        android:allowBackup="false"
+25-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:16:9-36
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@drawable/ic_launcher"
+28-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:18:9-45
+29        android:label="ReelGuard"
+29-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:17:9-34
+30        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+30-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:19:9-72
+31        <activity
+31-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:20:9-27:20
+32            android:name="com.example.reelguard.MainActivity"
+32-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:21:13-41
+33            android:exported="true" >
+33-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:22:13-36
+34            <intent-filter>
+34-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:23:13-26:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:24:17-69
+35-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:24:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:25:17-77
+37-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:25:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:29:9-32:84
+41            android:name="com.example.reelguard.breakremind.BreakReminderActivity"
+41-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:30:13-62
+42            android:exported="false"
+42-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:31:13-37
+43            android:theme="@android:style/Theme.Material.NoActionBar.Fullscreen" />
+43-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:32:13-81
+44
+45        <service
+45-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:34:9-41:19
+46            android:name="com.example.reelguard.UsageMonitorService"
+46-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:35:13-48
+47            android:exported="false"
+47-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:36:13-37
+48            android:foregroundServiceType="specialUse" >
+48-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:37:13-55
+49            <property
+49-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:38:13-40:100
+50                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+50-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:39:17-76
+51                android:value="Monitors app usage time for digital wellbeing limit enforcement." />
+51-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:40:17-97
+52        </service>
+53        <service
+53-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:43:9-53:19
+54            android:name="com.example.reelguard.ReelAccessibilityService"
+54-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:44:13-53
+55            android:exported="true"
+55-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:46:13-36
+56            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+56-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:45:13-79
+57            <intent-filter>
+57-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:47:13-49:29
+58                <action android:name="android.accessibilityservice.AccessibilityService" />
+58-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:48:17-92
+58-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:48:25-89
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:50:13-52:69
+62                android:name="android.accessibilityservice"
+62-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:51:17-60
+63                android:resource="@xml/reel_accessibility_config" />
+63-->C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:52:17-66
+64        </service>
+65    </application>
+66
+67</manifest>

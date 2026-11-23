@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.model.PermissionTypeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.479Z" hostname="LAPTOP-IVFD4A1S" time="0.002">
+  <properties/>
+  <testcase name="criticalClassification_isCorrect" classname="com.example.reelguard.model.PermissionTypeTest" time="0.0"/>
+  <testcase name="permissionState_statusLabels" classname="com.example.reelguard.model.PermissionTypeTest" time="0.001"/>
+  <testcase name="settingsActions_matchAndroidSettingsConstants" classname="com.example.reelguard.model.PermissionTypeTest" time="0.0"/>
+  <testcase name="permissionTypes_containAllFourRequiredPermissions" classname="com.example.reelguard.model.PermissionTypeTest" time="0.001"/>
+  <testcase name="rationalesAndDisclosures_areInformative" classname="com.example.reelguard.model.PermissionTypeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

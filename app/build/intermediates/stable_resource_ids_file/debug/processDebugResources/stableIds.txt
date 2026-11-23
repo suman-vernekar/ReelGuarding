@@ -1,0 +1,6 @@
+com.example.reelguard:string/privacy_policy_title = 0x7f020003
+com.example.reelguard:string/privacy_policy_summary = 0x7f020002
+com.example.reelguard:xml/reel_accessibility_config = 0x7f030000
+com.example.reelguard:string/app_name = 0x7f020001
+com.example.reelguard:string/accessibility_description = 0x7f020000
+com.example.reelguard:drawable/ic_launcher = 0x7f010000

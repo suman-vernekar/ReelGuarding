@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.data.AnalyticsStorageTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.343Z" hostname="LAPTOP-IVFD4A1S" time="0.016">
+  <properties/>
+  <testcase name="dailyUsageRecord_supportsIndependentLimitsAndStatus" classname="com.example.reelguard.data.AnalyticsStorageTest" time="0.009"/>
+  <testcase name="chartBarEntry_handlesAppSecondsAndFiltering" classname="com.example.reelguard.data.AnalyticsStorageTest" time="0.001"/>
+  <testcase name="analyticsSummary_computesCorrectly" classname="com.example.reelguard.data.AnalyticsStorageTest" time="0.002"/>
+  <testcase name="monthlySummary_formatsTimeAndIdentifiesMostUsedApp" classname="com.example.reelguard.data.AnalyticsStorageTest" time="0.0"/>
+  <testcase name="csvExportFormat_conformsToSpecification" classname="com.example.reelguard.data.AnalyticsStorageTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

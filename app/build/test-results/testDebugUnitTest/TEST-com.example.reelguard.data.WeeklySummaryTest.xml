@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.data.WeeklySummaryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.360Z" hostname="LAPTOP-IVFD4A1S" time="0.005">
+  <properties/>
+  <testcase name="weeklySummary_handlesEmptyRecordsGracefully" classname="com.example.reelguard.data.WeeklySummaryTest" time="0.003"/>
+  <testcase name="dailyUsageRecord_formattedHelpers" classname="com.example.reelguard.data.WeeklySummaryTest" time="0.0"/>
+  <testcase name="weeklySummary_aggregatesTotalsAndAveragesCorrectly" classname="com.example.reelguard.data.WeeklySummaryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.detector.PlatformReelDetectorTest" tests="42" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.370Z" hostname="LAPTOP-IVFD4A1S" time="0.087">
+  <properties/>
+  <testcase name="scenario2_repeatedEventsForSameTransition_doNotIncrementAgain" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.017"/>
+  <testcase name="test4_openInstagramReels_doesNotCountArbitraryInitializationEvents" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario5_openingProfile_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test15_openReelGuardDashboard_noPlatformCounterIncrements" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="testDuplicateFix_uncertainIdentity_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario8_nullAccessibilityNodes_doNotCrash" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="testDuplicateFix_privacySafeLogging_doesNotExposePlaintext" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="test11_reopenInstagramOnHomeFeed_doesNotIncrementReelCounter" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="scenario21_screenBounceOnSameVideo_doesNotIncrement_andPersistsAcrossRestart" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.004"/>
+  <testcase name="scenario19_plainCreatorHandle_extractedFromAdjacentFollowOrSubscribe" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.002"/>
+  <testcase name="test10_pressHomeOrSwitchApp_usageTimerStopsAndNoCountsAccepted" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="scenario16_dwellFor30Seconds_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.004"/>
+  <testcase name="test7_multipleEventsForSameReel_noDuplicateIncrements" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.003"/>
+  <testcase name="scenario11_dailyReset_clearsTodayCounters" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario12_rapidEvents_debouncedWithoutDuplicateCounts" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.003"/>
+  <testcase name="scenario13_instagram_continuousScrollThrough10Reels_incrementsExactly10Times" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.005"/>
+  <testcase name="scenario15_facebook_continuousScrollThrough10Reels_incrementsExactly10Times" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.004"/>
+  <testcase name="testDuplicateFix_returnToPreviouslyViewedReel_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.002"/>
+  <testcase name="test9_exitReelsToInstagramHome_reelCountingStops" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="test12_openYouTubeNotShorts_shortsCountDoesNotIncrease" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario1_genuineVideoTransition_incrementsOnce" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario20_usageStoreListeners_liveNotification" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.002"/>
+  <testcase name="scenario10_countsPersist_andDashboardReceivesUpdates" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.006"/>
+  <testcase name="scenario7_unknownEventStructures_failSafely" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="test14_restartService_noFakeInitialIncrements" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="scenario14_youtube_continuousScrollThrough10Shorts_incrementsExactly10Times" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.003"/>
+  <testcase name="scenario6_appBackgrounding_stopsCounting" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test13_openYouTubeShortsAndScroll_countsDetectedShorts" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test2_openInstagramProfile_doesNotIncreaseCount" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="test6_scrollToNextReel_incrementsByExactlyOne" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="scenario4_openingAndClosingComments_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="testDuplicateFix_genuineSwipeToNextReel_incrementsByExactlyOne" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.002"/>
+  <testcase name="test1_openInstagramHomeFeed_doesNotIncreaseReelCount" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test3_openInstagramMessages_doesNotIncreaseCount" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario3_scrollingToNextVideo_incrementsCounter" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test8_stayOnOneReel_countRemainsUnchanged" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.007"/>
+  <testcase name="scenario17_likeCommentPauseInteraction_doesNotIncrement" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="scenario22_concurrentEvents_threadSafeDeduplication" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.005"/>
+  <testcase name="scenario18_scrollingBackUpToPreviouslySeenVideo_doesNotCountAgain" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.001"/>
+  <testcase name="test5_identifyFirstVisibleReelReliably_countsInitialItem" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="scenario9_platformCounters_remainSeparate" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.0"/>
+  <testcase name="testDuplicateFix_singleReel_authorCaptionLikesProfilePicChange_countedExactlyOnce" classname="com.example.reelguard.detector.PlatformReelDetectorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

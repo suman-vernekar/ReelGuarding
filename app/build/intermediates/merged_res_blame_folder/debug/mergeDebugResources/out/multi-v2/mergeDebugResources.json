@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.reelguard.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\suman\\Downloads\\ReelGuardStarter\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1,4,3",
+                        "startColumns": "4,-1,4,4",
+                        "startOffsets": "63,-1,456,377",
+                        "endColumns": "313,-1,148,78",
+                        "endOffsets": "372,-1,600,451"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,369,416,565",
+                        "endColumns": "313,46,148,78",
+                        "endOffsets": "364,411,560,639"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\suman\\.gradle\\daemon\\9.6.0\\com.example.reelguard.app-debug-4:\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\suman\\Downloads\\ReelGuardStarter\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "63,16",
+                        "endColumns": "174,46",
+                        "endOffsets": "233,58"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,230",
+                        "endColumns": "174,46",
+                        "endOffsets": "225,272"
+                    }
+                }
+            ]
+        }
+    ]
+}

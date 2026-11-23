@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.model.SupportedAppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.482Z" hostname="LAPTOP-IVFD4A1S" time="0.001">
+  <properties/>
+  <testcase name="allPackages_containsAllThreeApps" classname="com.example.reelguard.model.SupportedAppTest" time="0.0"/>
+  <testcase name="fromPackageName_handlesUnknownOrNull" classname="com.example.reelguard.model.SupportedAppTest" time="0.0"/>
+  <testcase name="shortVideoName_matchesPlatformTerm" classname="com.example.reelguard.model.SupportedAppTest" time="0.0"/>
+  <testcase name="fromPackageName_returnsCorrectEnum" classname="com.example.reelguard.model.SupportedAppTest" time="0.001"/>
+  <testcase name="isSupported_identifiesCorrectly" classname="com.example.reelguard.model.SupportedAppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

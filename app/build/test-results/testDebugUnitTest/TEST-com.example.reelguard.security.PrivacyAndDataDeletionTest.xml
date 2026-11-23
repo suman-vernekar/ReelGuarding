@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.security.PrivacyAndDataDeletionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.490Z" hostname="LAPTOP-IVFD4A1S" time="0.007">
+  <properties/>
+  <testcase name="strings_containTransparentPrivacyAndAccessibilityDisclosures" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.004"/>
+  <testcase name="accessibilityConfig_isRestrictedToTargetPackagesOnly" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.0"/>
+  <testcase name="manifest_doesNotRequestInternetPermission" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.001"/>
+  <testcase name="dataPurge_inMemoryRepositoryClearsAllUserHistory" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.0"/>
+  <testcase name="manifest_disallowsBackupToPreventCloudDataLeakage" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.001"/>
+  <testcase name="manifest_internalComponentsAreNotExported" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.0"/>
+  <testcase name="dailyUsageRecord_storesOnlyAggregateCountersWithoutPersonalIdentifiers" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.001"/>
+  <testcase name="nodeSnapshot_flagsPasswordFieldsAsSensitive" classname="com.example.reelguard.security.PrivacyAndDataDeletionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

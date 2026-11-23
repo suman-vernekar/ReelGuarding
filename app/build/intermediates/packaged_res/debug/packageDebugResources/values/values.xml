@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">ReelGuard uses AccessibilityService exclusively to detect short-video feed transitions (Instagram Reels, YouTube Shorts, Facebook Reels) locally on-device. It does NOT read, collect, or share personal messages, passwords, payment info, or audio/video content.</string>
+    <string name="app_name">ReelGuard</string>
+    <string name="privacy_policy_summary">ReelGuard is strictly offline and private by design. Your viewing habits never leave your device.</string>
+    <string name="privacy_policy_title">Privacy &amp; Data Protection</string>
+</resources>

@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:1:1-55:12
+	package
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:2:5-78
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:2:22-75
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:3:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:4:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:5:5-89
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:5:22-86
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:7:5-95
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:7:22-92
+queries
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:9:5-13:15
+package#com.instagram.android
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:10:9-57
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:10:18-54
+package#com.google.android.youtube
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:11:9-62
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:11:18-59
+package#com.facebook.katana
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:12:18-52
+application
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:15:5-54:19
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:15:5-54:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:17:9-34
+	android:icon
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:19:9-72
+activity#com.example.reelguard.MainActivity
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.reelguard.breakremind.BreakReminderActivity
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:29:9-32:84
+	android:exported
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:32:13-81
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:30:13-62
+service#com.example.reelguard.UsageMonitorService
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:34:9-41:19
+	android:exported
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:36:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:35:13-48
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:38:13-40:100
+	android:value
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:40:17-97
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:39:17-76
+service#com.example.reelguard.ReelAccessibilityService
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:43:9-53:19
+	android:exported
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:45:13-79
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:44:13-53
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:47:13-49:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:48:17-92
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:48:25-89
+meta-data#android.accessibilityservice
+ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:50:13-52:69
+	android:resource
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:52:17-66
+	android:name
+		ADDED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml:51:17-60
+uses-sdk
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\suman\Downloads\ReelGuardStarter\app\src\main\AndroidManifest.xml

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reelguard.model.AppUsageDataTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-11T13:16:36.476Z" hostname="LAPTOP-IVFD4A1S" time="0.001">
+  <properties/>
+  <testcase name="supportedAppMetadata_bindsCorrectly" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <testcase name="formatDuration_producesExpectedStrings" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <testcase name="warningState_whenTimeWithinThreshold" classname="com.example.reelguard.model.AppUsageDataTest" time="0.001"/>
+  <testcase name="timeLimitReached_whenSecondsExceedLimit" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <testcase name="defaultCalculations_withZeroUsage" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <testcase name="reelLimitReached_whenReelCountExceedsLimit" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <testcase name="warningState_whenReelsWithinThreshold" classname="com.example.reelguard.model.AppUsageDataTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
